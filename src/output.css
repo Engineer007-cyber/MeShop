@@ -417,6 +417,11 @@
       line-height: var(--tw-leading, var(--text-6xl--line-height));
     }
   }
+  .md\:flex-col {
+    @media (width <= 640px) {
+      flex-direction: column;
+    }
+  }
 }
 @layer utilities {
   * {
