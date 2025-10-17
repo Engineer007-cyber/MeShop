@@ -6,3 +6,24 @@
 .slogan{
     background-color: #491e66;
 }
+#nav-menu a {
+    display: block;
+    padding: 1rem;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+#nav-menu a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+@media (min-width: 1024px) {
+    #nav-menu a {
+        padding: 0;
+        color: initial;
+    }
+    
+    #nav-menu a:hover {
+        background-color: transparent;
+    }
+}
