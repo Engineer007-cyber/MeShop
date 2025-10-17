@@ -8,13 +8,13 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-violet-500: oklch(60.6% 0.25 292.717);
-    --color-violet-950: oklch(28.3% 0.141 291.089);
+    --color-violet-950: oklch(58.3% 0.141 291.089);
     --color-purple-400: oklch(71.4% 0.203 305.504);
     --color-purple-800: oklch(43.8% 0.218 303.724);
     --color-purple-900: oklch(38.1% 0.176 304.987);
     --color-purple-950: oklch(29.1% 0.149 302.717);
     --color-slate-200: oklch(92.9% 0.013 255.508);
-    --color-gray-700: oklch(37.3% 0.034 259.733);
+    --color-gray-700: oklch(87.3% 0.034 259.733);
     --color-white: #fff;
     --spacing: 0.25rem;
     --container-6xl: 72rem;
