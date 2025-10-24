@@ -1,7 +1,14 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "liveServer.settings.port": 5501
 =======
     "liveServer.settings.port": 5502
 >>>>>>> 8561e86 (Ajouter settings VSCode local)
+=======
+    "liveServer.settings.port": 5502
+=======
+    "liveServer.settings.port": 5501
+>>>>>>> 179620abb175ca50d9dd837764d37eaf7f4c69de
+>>>>>>> bf3c673957640062a95cbfc016bd6f5660d549bd
 }
